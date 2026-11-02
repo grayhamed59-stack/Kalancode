@@ -1,0 +1,21 @@
+{
+  "id": "mod-cyber-01-hygiene",
+  "pathId": "path-cybersecurity",
+  "levelId": "beginner",
+  "order": 1,
+  "slug": "digital-hygiene-mobile",
+  "icon": "📱",
+  "accentColor": "#6366f1",
+  "language": "klncd",
+  "titleKey": "mod.cyber01.title",
+  "descriptionKey": "mod.cyber01.description",
+  "prerequisites": [],
+  "learningObjectives": [
+    "mod.cyber01.obj.pin_protection",
+    "mod.cyber01.obj.sim_swap",
+    "mod.cyber01.obj.mobile_money"
+  ],
+  "lessonIds": [
+    "les-cyber-01-01-sim-protection"
+  ]
+}

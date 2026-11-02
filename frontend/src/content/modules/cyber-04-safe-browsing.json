@@ -1,0 +1,21 @@
+{
+  "id": "mod-cyber-04-safe-browsing",
+  "pathId": "path-cybersecurity",
+  "levelId": "beginner",
+  "order": 4,
+  "slug": "safe-browsing-mobile-permissions",
+  "icon": "🌐",
+  "accentColor": "#06b6d4",
+  "language": "klncd",
+  "titleKey": "mod.cyber04.title",
+  "descriptionKey": "mod.cyber04.description",
+  "prerequisites": ["mod-cyber-03-auth-passwords"],
+  "learningObjectives": [
+    "mod.cyber04.obj.https_padlock",
+    "mod.cyber04.obj.android_permissions",
+    "mod.cyber04.obj.public_wifi"
+  ],
+  "lessonIds": [
+    "les-cyber-04-01-app-permissions"
+  ]
+}

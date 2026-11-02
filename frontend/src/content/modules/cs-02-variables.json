@@ -1,0 +1,23 @@
+{
+  "id": "mod-cs-02-variables",
+  "pathId": "path-computer-science",
+  "levelId": "beginner",
+  "order": 2,
+  "slug": "variables-python-types",
+  "icon": "🧱",
+  "accentColor": "#06b6d4",
+  "language": "python",
+  "titleKey": "mod.cs02.title",
+  "descriptionKey": "mod.cs02.description",
+  "prerequisites": ["mod-cs-01-intro-algo"],
+  "learningObjectives": [
+    "mod.cs02.obj.memory_concept",
+    "mod.cs02.obj.data_types",
+    "mod.cs02.obj.assignment"
+  ],
+  "lessonIds": [
+    "les-cs-02-01-variables-basics",
+    "les-cs-02-02-types-conversion"
+  ],
+  "finalAssessmentId": "assess-cs-02"
+}

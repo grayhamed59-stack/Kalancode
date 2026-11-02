@@ -1,0 +1,35 @@
+{
+  "id": "path-computer-science",
+  "slug": "computer-science",
+  "icon": "💻",
+  "accentColor": "#10b981",
+  "titleKey": "path.cs.title",
+  "descriptionKey": "path.cs.description",
+  "levels": [
+    {
+      "id": "beginner",
+      "number": 1,
+      "titleKey": "level.beginner.title",
+      "descriptionKey": "level.beginner.description",
+      "moduleIds": [
+        "mod-cs-01-intro-algo",
+        "mod-cs-02-variables",
+        "mod-cs-03-operators",
+        "mod-cs-04-conditions",
+        "mod-cs-05-loops",
+        "mod-cs-06-functions",
+        "mod-cs-07-data-structures"
+      ]
+    },
+    {
+      "id": "intermediate",
+      "number": 2,
+      "titleKey": "level.intermediate.title",
+      "descriptionKey": "level.intermediate.description",
+      "moduleIds": [
+        "mod-cs-08-problem-solving",
+        "mod-cs-09-defensive-programming"
+      ]
+    }
+  ]
+}

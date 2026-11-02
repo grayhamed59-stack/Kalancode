@@ -1,0 +1,21 @@
+{
+  "id": "mod-cs-08-problem-solving",
+  "pathId": "path-computer-science",
+  "levelId": "intermediate",
+  "order": 8,
+  "slug": "problem-solving-algorithms",
+  "icon": "🧠",
+  "accentColor": "#6366f1",
+  "language": "python",
+  "titleKey": "mod.cs08.title",
+  "descriptionKey": "mod.cs08.description",
+  "prerequisites": ["mod-cs-07-data-structures"],
+  "learningObjectives": [
+    "mod.cs08.obj.decomposition",
+    "mod.cs08.obj.search_algorithms",
+    "mod.cs08.obj.optimization"
+  ],
+  "lessonIds": [
+    "les-cs-08-01-searching-algorithms"
+  ]
+}

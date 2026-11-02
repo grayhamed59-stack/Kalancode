@@ -1,0 +1,21 @@
+{
+  "id": "mod-cyber-02-phishing",
+  "pathId": "path-cybersecurity",
+  "levelId": "beginner",
+  "order": 2,
+  "slug": "phishing-social-engineering",
+  "icon": "🎣",
+  "accentColor": "#f43f5e",
+  "language": "klncd",
+  "titleKey": "mod.cyber02.title",
+  "descriptionKey": "mod.cyber02.description",
+  "prerequisites": ["mod-cyber-01-hygiene"],
+  "learningObjectives": [
+    "mod.cyber02.obj.sms_phishing",
+    "mod.cyber02.obj.fake_links",
+    "mod.cyber02.obj.vishing_calls"
+  ],
+  "lessonIds": [
+    "les-cyber-02-01-sms-phishing"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mod-cs-04-conditions",
+  "pathId": "path-computer-science",
+  "levelId": "beginner",
+  "order": 4,
+  "slug": "conditions-decisions",
+  "icon": "🔀",
+  "accentColor": "#8b5cf6",
+  "language": "python",
+  "titleKey": "mod.cs04.title",
+  "descriptionKey": "mod.cs04.description",
+  "prerequisites": ["mod-cs-03-operators"],
+  "learningObjectives": [
+    "mod.cs04.obj.if_else",
+    "mod.cs04.obj.branching",
+    "mod.cs04.obj.nested_conditions"
+  ],
+  "lessonIds": [
+    "les-cs-04-01-if-else-branching"
+  ]
+}

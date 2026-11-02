@@ -1,0 +1,40 @@
+{
+  "id": "les-cs-01-01-tea-algorithm",
+  "moduleId": "mod-cs-01-intro-algo",
+  "order": 1,
+  "slug": "algorithme-the-taji",
+  "estimatedMinutes": 5,
+  "xpReward": 25,
+  "titleKey": "les.cs0101.title",
+  "summaryKey": "les.cs0101.summary",
+  "vocabularyKeys": ["vocab.aligoritimu", "vocab.sikansi"],
+  "activities": [
+    {
+      "id": "act-cs-01-01-concept",
+      "type": "concept",
+      "titleKey": "les.cs0101.act1.title",
+      "contentKey": "les.cs0101.act1.content",
+      "keyTakeawayKey": "les.cs0101.act1.takeaway"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex-cs-01-01-sequencing",
+      "type": "sequencing",
+      "instructionKey": "les.cs0101.ex1.instruction",
+      "hintKey": "les.cs0101.ex1.hint",
+      "explanationSuccessKey": "les.cs0101.ex1.success",
+      "explanationFailureKey": "les.cs0101.ex1.failure",
+      "payload": {
+        "items": [
+          { "id": "step-fire", "icon": "🔥", "labelKey": "tea.step.fire" },
+          { "id": "step-water", "icon": "💧", "labelKey": "tea.step.water" },
+          { "id": "step-tea", "icon": "🌿", "labelKey": "tea.step.tea" },
+          { "id": "step-sugar", "icon": "🍬", "labelKey": "tea.step.sugar" },
+          { "id": "step-pour", "icon": "🍵", "labelKey": "tea.step.pour" }
+        ],
+        "correctOrder": ["step-fire", "step-water", "step-tea", "step-sugar", "step-pour"]
+      }
+    }
+  ]
+}

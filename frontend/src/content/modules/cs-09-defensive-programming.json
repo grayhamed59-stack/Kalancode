@@ -1,0 +1,21 @@
+{
+  "id": "mod-cs-09-defensive-programming",
+  "pathId": "path-computer-science",
+  "levelId": "intermediate",
+  "order": 9,
+  "slug": "defensive-programming-debugging",
+  "icon": "🛡️",
+  "accentColor": "#ef4444",
+  "language": "python",
+  "titleKey": "mod.cs09.title",
+  "descriptionKey": "mod.cs09.description",
+  "prerequisites": ["mod-cs-08-problem-solving"],
+  "learningObjectives": [
+    "mod.cs09.obj.exception_handling",
+    "mod.cs09.obj.input_validation",
+    "mod.cs09.obj.assertions_debugging"
+  ],
+  "lessonIds": [
+    "les-cs-09-01-try-except-debugging"
+  ]
+}

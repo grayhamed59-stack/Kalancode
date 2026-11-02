@@ -1,0 +1,24 @@
+{
+  "id": "mod-cs-01-intro-algo",
+  "pathId": "path-computer-science",
+  "levelId": "beginner",
+  "order": 1,
+  "slug": "intro-algo-klncd",
+  "icon": "🌱",
+  "accentColor": "#10b981",
+  "language": "klncd",
+  "titleKey": "mod.cs01.title",
+  "descriptionKey": "mod.cs01.description",
+  "prerequisites": [],
+  "learningObjectives": [
+    "mod.cs01.obj.algorithm_thinking",
+    "mod.cs01.obj.klncd_syntax",
+    "mod.cs01.obj.io_operations"
+  ],
+  "lessonIds": [
+    "les-cs-01-01-tea-algorithm",
+    "les-cs-01-02-klncd-output-s3b3n",
+    "les-cs-01-03-klncd-input-doon"
+  ],
+  "finalAssessmentId": "assess-cs-01"
+}

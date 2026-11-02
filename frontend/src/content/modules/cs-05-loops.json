@@ -1,0 +1,21 @@
+{
+  "id": "mod-cs-05-loops",
+  "pathId": "path-computer-science",
+  "levelId": "beginner",
+  "order": 5,
+  "slug": "loops-iterations",
+  "icon": "🔄",
+  "accentColor": "#ec4899",
+  "language": "python",
+  "titleKey": "mod.cs05.title",
+  "descriptionKey": "mod.cs05.description",
+  "prerequisites": ["mod-cs-04-conditions"],
+  "learningObjectives": [
+    "mod.cs05.obj.for_loops",
+    "mod.cs05.obj.while_loops",
+    "mod.cs05.obj.accumulators"
+  ],
+  "lessonIds": [
+    "les-cs-05-01-loops-iterations"
+  ]
+}

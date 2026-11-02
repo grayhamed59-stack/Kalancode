@@ -1,0 +1,40 @@
+{
+  "id": "les-cs-01-03-klncd-input-doon",
+  "moduleId": "mod-cs-01-intro-algo",
+  "order": 3,
+  "slug": "dialogue-avec-doon",
+  "estimatedMinutes": 7,
+  "xpReward": 35,
+  "titleKey": "les.cs0103.title",
+  "summaryKey": "les.cs0103.summary",
+  "vocabularyKeys": ["vocab.doon", "vocab.variable"],
+  "activities": [
+    {
+      "id": "act-cs-01-03-concept",
+      "type": "concept",
+      "titleKey": "les.cs0103.act1.title",
+      "contentKey": "les.cs0103.act1.content",
+      "codeSnippet": {
+        "language": "klncd",
+        "code": "import klncd\njamu = klncd.Doon(\"I jamu?\")\nklncd.S3b3n(\"I ni ce, \" + jamu)",
+        "captionKey": "les.cs0103.act1.code_caption"
+      },
+      "keyTakeawayKey": "les.cs0103.act1.takeaway"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex-cs-01-03-code",
+      "type": "code_interactive",
+      "language": "klncd",
+      "instructionKey": "les.cs0103.ex1.instruction",
+      "hintKey": "les.cs0103.ex1.hint",
+      "explanationSuccessKey": "les.cs0103.ex1.success",
+      "explanationFailureKey": "les.cs0103.ex1.failure",
+      "payload": {
+        "starterCode": "import klncd\ntɔgɔ = klncd.Doon(\"I tɔgɔ bɛ di?\")\nklncd.S3b3n(\"I bisimila, \" + tɔgɔ)\n",
+        "expectedOutputs": []
+      }
+    }
+  ]
+}

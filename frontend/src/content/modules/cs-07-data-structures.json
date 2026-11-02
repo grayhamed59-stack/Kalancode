@@ -1,0 +1,21 @@
+{
+  "id": "mod-cs-07-data-structures",
+  "pathId": "path-computer-science",
+  "levelId": "beginner",
+  "order": 7,
+  "slug": "data-structures",
+  "icon": "🗄️",
+  "accentColor": "#14b8a6",
+  "language": "python",
+  "titleKey": "mod.cs07.title",
+  "descriptionKey": "mod.cs07.description",
+  "prerequisites": ["mod-cs-06-functions"],
+  "learningObjectives": [
+    "mod.cs07.obj.lists_indexing",
+    "mod.cs07.obj.dictionaries",
+    "mod.cs07.obj.collections"
+  ],
+  "lessonIds": [
+    "les-cs-07-01-lists-dicts"
+  ]
+}

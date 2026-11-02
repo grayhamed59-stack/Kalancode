@@ -1,0 +1,21 @@
+{
+  "id": "mod-cs-03-operators",
+  "pathId": "path-computer-science",
+  "levelId": "beginner",
+  "order": 3,
+  "slug": "operators-expressions",
+  "icon": "⚡",
+  "accentColor": "#f59e0b",
+  "language": "python",
+  "titleKey": "mod.cs03.title",
+  "descriptionKey": "mod.cs03.description",
+  "prerequisites": ["mod-cs-02-variables"],
+  "learningObjectives": [
+    "mod.cs03.obj.arithmetic",
+    "mod.cs03.obj.precedence",
+    "mod.cs03.obj.boolean_logic"
+  ],
+  "lessonIds": [
+    "les-cs-03-01-arithmetic-expressions"
+  ]
+}

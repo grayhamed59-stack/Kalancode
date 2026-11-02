@@ -1,0 +1,21 @@
+{
+  "id": "mod-cs-06-functions",
+  "pathId": "path-computer-science",
+  "levelId": "beginner",
+  "order": 6,
+  "slug": "functions-modular-programming",
+  "icon": "📦",
+  "accentColor": "#3b82f6",
+  "language": "python",
+  "titleKey": "mod.cs06.title",
+  "descriptionKey": "mod.cs06.description",
+  "prerequisites": ["mod-cs-05-loops"],
+  "learningObjectives": [
+    "mod.cs06.obj.def_functions",
+    "mod.cs06.obj.parameters_return",
+    "mod.cs06.obj.scope"
+  ],
+  "lessonIds": [
+    "les-cs-06-01-functions-basics"
+  ]
+}

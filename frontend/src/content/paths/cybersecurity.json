@@ -1,0 +1,22 @@
+{
+  "id": "path-cybersecurity",
+  "slug": "cybersecurity",
+  "icon": "🛡️",
+  "accentColor": "#6366f1",
+  "titleKey": "path.cyber.title",
+  "descriptionKey": "path.cyber.description",
+  "levels": [
+    {
+      "id": "beginner",
+      "number": 1,
+      "titleKey": "level.beginner.title",
+      "descriptionKey": "level.beginner.description",
+      "moduleIds": [
+        "mod-cyber-01-hygiene",
+        "mod-cyber-02-phishing",
+        "mod-cyber-03-auth-passwords",
+        "mod-cyber-04-safe-browsing"
+      ]
+    }
+  ]
+}

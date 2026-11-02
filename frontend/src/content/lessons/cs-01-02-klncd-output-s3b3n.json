@@ -1,0 +1,40 @@
+{
+  "id": "les-cs-01-02-klncd-output-s3b3n",
+  "moduleId": "mod-cs-01-intro-algo",
+  "order": 2,
+  "slug": "ecrire-avec-s3b3n",
+  "estimatedMinutes": 5,
+  "xpReward": 30,
+  "titleKey": "les.cs0102.title",
+  "summaryKey": "les.cs0102.summary",
+  "vocabularyKeys": ["vocab.s3b3n", "vocab.kalan"],
+  "activities": [
+    {
+      "id": "act-cs-01-02-concept",
+      "type": "concept",
+      "titleKey": "les.cs0102.act1.title",
+      "contentKey": "les.cs0102.act1.content",
+      "codeSnippet": {
+        "language": "klncd",
+        "code": "import klncd\nklncd.S3b3n(\"I ni ce kulu!\")",
+        "captionKey": "les.cs0102.act1.code_caption"
+      },
+      "keyTakeawayKey": "les.cs0102.act1.takeaway"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex-cs-01-02-code",
+      "type": "code_interactive",
+      "language": "klncd",
+      "instructionKey": "les.cs0102.ex1.instruction",
+      "hintKey": "les.cs0102.ex1.hint",
+      "explanationSuccessKey": "les.cs0102.ex1.success",
+      "explanationFailureKey": "les.cs0102.ex1.failure",
+      "payload": {
+        "starterCode": "import klncd\n# Sɛbɛnni kɛ yan walasa ka 'I ni ce !' jira\nklncd.S3b3n(\"I ni ce !\")\n",
+        "expectedOutputs": ["I ni ce !"]
+      }
+    }
+  ]
+}
